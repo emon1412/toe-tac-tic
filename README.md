@@ -5,5 +5,5 @@ npm install
 
 Run
 ```bash
-npm run
+npm run game
 ```
