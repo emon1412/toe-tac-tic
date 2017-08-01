@@ -1,11 +1,9 @@
 var prompt = require('cli-prompt')
 
-
 function TicTacToe() {
   let boardArr = ['_', '_', '_', '_', '_', '_', '_', '_', '_']
   let winningPositions = ['012', '345', '678', '036', '147', '258', '048', '246']
   let currentPlayer = 1
-
   let xArray = []
   let oArray = []
 
