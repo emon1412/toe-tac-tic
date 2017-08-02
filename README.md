@@ -3,7 +3,7 @@ Install dependencies:
 npm install
 ```
 
-Run
+Run:
 ```bash
 npm run game
 ```
